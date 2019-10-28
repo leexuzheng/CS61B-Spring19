@@ -5,6 +5,7 @@ public class IntList {
     public IntList(int f, IntList r) {
         first = f;
         rest = r;
+
     }
 
     /** Return the size of the list using... recursion! */
