@@ -5,6 +5,7 @@ public class Cat {
          public Cat(String name, String noise) {
          this.name = name;
          this.noise = noise;
+         int a= 1;
          }
 
          public void play() {
